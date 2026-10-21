@@ -1,12 +1,4 @@
-# awesome-mobile-dev
-A curated list of tools and workflows for coding and building software from your phone (Termux and Android).
-
-
-# Awesome Mobile Dev [
-
-![Awesome](https://awesome.re/badge.svg)
-
-](https://awesome.re)
+# Awesome Mobile Dev
 
 > A curated list of tools, guides and workflows for **writing, building and shipping software from your phone**, with a focus on [Termux](https://github.com/termux/termux-app) on Android.
 
@@ -111,10 +103,6 @@ Your contributions are always welcome!
 
 ## License
 
-[
-
-![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
-
-](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
