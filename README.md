@@ -20,7 +20,7 @@ Contributions are welcome. Please read the [contribution guidelines](#contributi
 - [Tips and Workflows](#tips-and-workflows)
 - [Contributing](#contributing)
 
-## Getting Started
+## Getting Started 
 
 - [Termux Wiki](https://wiki.termux.com) - Official documentation: package management, storage access, API usage.
 - [Termux on GitHub](https://github.com/termux/termux-app) - The terminal emulator and Linux environment for Android.
