@@ -1,6 +1,6 @@
 # Awesome Mobile Dev
 
-> A curated list of tools, guides and workflows for **writing, building and shipping software from your phone**, with a focus on [Termux](https://github.com/termux/termux-app) on Android.
+> A curated list of tools, guides and workflows for **writing, building and shipping software from your phone**, with a focus on [Termux](https://github.com/termux/termux-app) on Android. 
 
 No laptop? No problem. This list collects what actually works on a phone.
 
